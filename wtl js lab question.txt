@@ -1,0 +1,24 @@
+^ 1) write a js function that reservse a number ?
+ 
+^ 2) write a js fun that return a passed string with letters in alphapite string 
+
+ ^3) write a js fun that assepts a string as a parameter and counts the  number of the string 
+
+ 4) write a js fun that asepts string as parameter that convert the first letter   in each  each word of 
+    to upper case
+^ 5) write a js prgm to get the current date ?
+
+^ 6) write a js prgm to calculate the  number of days left untill next christmas ?
+ ----------
+
+^ 7)  Write a js prgm input is array or not 
+8) write a js prgm to sort an items of an array 
+9) write a js prgm forloop that will iterate 0- 50 for each iteration it will check if the corrent number is odd 
+    or even  and the display the msg to the screen 
+10) write a js statemnt to find the largest of 5 numbers 
+11)write  a js prgm to calculate the age 
+12) write a js function to check whether  a string is blank or not 
+13) create a function that will merge the 2 array and result as new array 
+14) craete the function the number of words in a text 
+15)create a function that convert a siting to array of characters 
+16)craete a fun that conver a string contining a binary number into a number 
